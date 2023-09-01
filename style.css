@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(230, 235, 236);
+}
+.outerdiv{
+    background-color: rgba(59, 119, 231, 0.52);
+    margin: 100px;
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 5%;
+}
+.cover{
+    background-color:rgba(59, 119, 231, 0.52);
+    width: 275px;
+    border: 1px solid;
+}
+.key{
+    background-color: rgb(14, 14, 59);
+    color: rgb(214, 212, 216);
+    margin: 2px;
+    padding: 5px;
+    width: 60px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 30%;    
+}
+.key:hover{
+    background-color: rgb(38, 41, 38);
+}
